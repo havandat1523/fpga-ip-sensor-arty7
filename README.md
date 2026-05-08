@@ -69,7 +69,7 @@ All sensor communication is handled entirely in hardware, improving system deter
 
 ## 👤 Author
 
-- **GitHub**: [dathavan1523](https://github.com/dathavan1523)
+- **GitHub**: [havandat1523](https://github.com/havandat1523)
 - Project developed for academic and learning purposes
 
 ---
